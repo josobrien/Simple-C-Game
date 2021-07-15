@@ -1,4 +1,4 @@
-# Simple-C-Game
+# Simple-C++-Game
 Around 2017 I wrote a simple game in my spare time which involved collecting rings while moving around a 2D array.
 
 There is a randomly generated layout of walls that cannot be moved through and rings to be collected in a 38x18 grid.
